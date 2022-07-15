@@ -138,7 +138,7 @@
 
                 <br><br>
             
-                <label for="data_nascimento"><b>Data de nascimento:</b></label>
+                <label for="data_nascimento"><b>Data dee nascimento:</b></label>
                 <input type="date" name ="data_nascimento" id ="data_nascimento"  required >
                 
                 <br><br>
