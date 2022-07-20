@@ -16,16 +16,16 @@ Linkedin: www.linkedin.com/in/luiz-automacao
 
 Meu nome é Luiz Fernando de Arruda Camargo, sou Analista de Sistemas formado em 2022. Apaixonado tecnologia e informação.
 
-Área de Interesse
+## Área de Interesse
 
 
     • TI, AUTOMAÇÃO DE TESTES
-Formação
+## Formação
 
 
     • ANHANGUERA - Barueri/Sorocaba
-CST EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
-Cursando 2018 a 2022
+## CST EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+Cursado entre 2018 a 2022
 
     • SENAI - Sorocaba
 
@@ -51,7 +51,8 @@ Concluído 2001
 
     • TRIAK – São Paulo
 
-CURSO DE ELETRÔNICA Concluído 2000
+CURSO DE ELETRÔNICA Concluído 2000<br><br>
+
 Experiência Profissional
 
 
@@ -78,7 +79,7 @@ Project
 
     • Implantação e manutenção do sistema de controle/acompanhamento da fabricação de fios
 
-Principais ferramentas: Visual Basic, Crystal Report e MS Access
+### Principais ferramentas: Visual Basic, Crystal Report e MS Access
 
     • Prefeitura de Barueri – (2003 a 2005) Estagio em Programação
 
@@ -86,7 +87,7 @@ Principais ferramentas: Visual Basic, Crystal Report e MS Access
 
         ◦ Implantação e manutenção dos sistemas
 
-Principais ferramentas: Visual Basic, Crystal Report e SQL
+### Principais ferramentas: Visual Basic, Crystal Report e SQL
 
     • FREE ELETRÔNICA BRASIL – (2000 a 2001) Estagio em Eletrônica
 
@@ -103,7 +104,7 @@ Principais ferramentas: Visual Basic, Crystal Report e SQL
 
 
 
-Conhecimentos gerais
+## Conhecimentos gerais
 
 
 
@@ -127,5 +128,3 @@ Conhecimentos gerais
     • Java
     • Python
     • Ruby
-
-
