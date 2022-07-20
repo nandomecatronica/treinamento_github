@@ -14,8 +14,6 @@ Cel: (15) 99114-8172 / (15)3212-3162
 E-mail: nandomecatronica@gmail.com<br>
 Linkedin: www.linkedin.com/in/luiz-automacao 
 
-Meu nome é Luiz Fernando de Arruda Camargo, sou Analista de Sistemas formado em 2022. Apaixonado tecnologia e informação.
-
 ## Área de Interesse
 
 
