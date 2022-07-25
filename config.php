@@ -2,8 +2,8 @@
     $dbHost = 'Localhost';
     $dbUsername = 'root';
     $dbPassword = '';
-    $dbName = 'Formulario-luiz';
-
+    $dbName = 'formulario';
+    
     $conexao = new mysqli($dbHost,$dbUsername,$dbPassword,$dbName);
 
     // if($conexao->connect_errno)
